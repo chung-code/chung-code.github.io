@@ -6,6 +6,8 @@ categories:
 tag: [python, kaggle, Computer_vision]
 toc: true
 author_profile: true
+sidebar:
+    nav: "sidebar-category"
 ---
 
 <head>

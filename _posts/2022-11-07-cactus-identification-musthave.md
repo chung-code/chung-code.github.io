@@ -1,10 +1,11 @@
 ---
 layout: single
 title:  "Cactus-identification_kaggle"
-categories: coding
+categories: 
+  - datascience
 tag: [python, kaggle, Computer_vision]
 toc: true
-author_profile: false
+author_profile: true
 ---
 
 <head>

@@ -64,6 +64,8 @@ small,
 }
 
 p {
+  text-align: justify;
+  word-break: break-all;
   margin-bottom: 1.3em;
 }
 
@@ -126,6 +128,8 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none;   //추가코드
+
   &:focus {
     @extend %tab-focus;
   }
